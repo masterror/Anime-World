@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>One Piece</title> 
+  <title>Solo Leveling Season 1</title> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
@@ -43,7 +43,7 @@
   </style>
 </head>
 <body>
-  <h1>One Piece Episodes</h1>
+  <h1>Solo Leveling Season 1</h1>
 
   <div class="episode"><a href="link-to-episode-1"><span>E01</span></a></div>
   <div class="episode"><a href="link-to-episode-2"><span>E02</span></a></div>
