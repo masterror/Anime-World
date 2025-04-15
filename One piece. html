@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>One Piece</title> <!-- Ye line me sirf anime ka naam change karte rehna -->
+  <style>
+    body {
+      background-color: #0d001a;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .episode {
+      border-top: 1px solid #555;
+      padding: 15px 0;
+      font-size: 1.2em;
+    }
+    .episode span {
+      color: orange;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h2>One Piece Episodes</h2> <!-- Anime ka naam yahan bhi change karna -->
+
+  <div class="episode"><span>E01</span></div>
+  <div class="episode"><span>E02</span></div>
+  <div class="episode"><span>E03</span></div>
+  <div class="episode"><span>E04</span></div>
+  <div class="episode"><span>E05</span></div>
+  <div class="episode"><span>E06</span></div>
+  <div class="episode"><span>E07</span></div>
+  <div class="episode"><span>E08</span></div>
+  <div class="episode"><span>E09</span></div>
+  <div class="episode"><span>E10</span></div>
+  <!-- Jitne chahe E11, E12... add karte raho -->
+
+</body>
+</html>
